@@ -1,3 +1,9 @@
 [submodule "formacao-html-web-developer/criar-uma-pagina-web-utilizando-as-tags-aprendidas/exemplo"]
 	path = formacao-html-web-developer/criar-uma-pagina-web-utilizando-as-tags-aprendidas/exemplo
 	url = git@github.com:digitalinnovationone/trilha-html-modulo-1.git
+[submodule "formacao-html-web-developer/criando-seu-primeiro-site-completo-com-html/exemplo"]
+	path = formacao-html-web-developer/criando-seu-primeiro-site-completo-com-html/exemplo
+	url = git@github.com:digitalinnovationone/trilha-html-modulo-2.git
+[submodule "formacao-html-web-developer/recriando-o-wikipedia-com-layout-moderno/exemplo"]
+	path = formacao-html-web-developer/recriando-o-wikipedia-com-layout-moderno/exemplo
+	url = git@github.com:digitalinnovationone/trilha-html-modulo-3.git
