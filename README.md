@@ -30,4 +30,6 @@
 
 [DIO - Formação SQL Database Specialist](https://web.dio.me/track/formacao-sql-db-specialist)
 
-## [Formação Scrum Master Certification]()
+## [Formação Scrum Master Certification](https://github.com/gmurilo/dio/tree/main/formacao-scrum-master)
+
+[DIO - Formação Scrum Master Certification](https://web.dio.me/track/formacao-scrum-master)
