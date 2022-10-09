@@ -7,3 +7,9 @@
 [submodule "formacao-html-web-developer/recriando-o-wikipedia-com-layout-moderno/exemplo"]
 	path = formacao-html-web-developer/recriando-o-wikipedia-com-layout-moderno/exemplo
 	url = git@github.com:digitalinnovationone/trilha-html-modulo-3.git
+[submodule "formacao-javascript-developer/construindo-uma-pokedex-com-javascript/exemplo"]
+	path = formacao-javascript-developer/construindo-uma-pokedex-com-javascript/exemplo
+	url = git@github.com:digitalinnovationone/js-developer-pokedex.git
+[submodule "formacao-javascript-developer/publicando-seu-portfolio-profissional-no-github-pages/exemplo"]
+	path = formacao-javascript-developer/publicando-seu-portfolio-profissional-no-github-pages/exemplo
+	url = git@github.com:digitalinnovationone/js-developer-portfolio.git

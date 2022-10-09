@@ -12,7 +12,9 @@
 
 [DIO - Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer)
 
-## [Formação JavaScript Developer]()
+## [Formação JavaScript Developer](https://github.com/gmurilo/dio/tree/main/formacao-javascript-developer)
+
+[DIO - Formação JavaScript Developer](https://web.dio.me/track/formacao-javascript-developer)
 
 ## [Formação Linux Fundamentals](https://github.com/gmurilo/dio/tree/main/formacao-linux-fundamentals)
 
