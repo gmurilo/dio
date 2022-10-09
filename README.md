@@ -1,10 +1,10 @@
 # Repositórios de projetos realizados para os labs da DIO
 
-## [Bootcamp - Geração Tech Unimed-BH - Ciência de Dados]()
+## [Bootcamp - Geração Tech Unimed-BH - Ciência de Dados](https://web.dio.me/track/geracao-tech-unimed-bh-ciencia-de-dados)
 
-## [Bootcamp - NTT DATA Diversidade em Tech]()
+## [Bootcamp - NTT DATA Diversidade em Tech](https://web.dio.me/track/ntt-data-diversidade-em-tech)
 
-## [Cloud DevOps Experience - Banco Carrefour]() 
+## [Cloud DevOps Experience - Banco Carrefour](https://web.dio.me/track/cloud-devops-experience-banco-carrefour) 
 
 ## [Formação Docker Fundamentals](https://github.com/gmurilo/dio/tree/main/formacao-docker-fundamentals)
 
