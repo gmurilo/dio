@@ -1,0 +1,8 @@
+services:
+  apache:
+    image: httpd:latest
+    container_name: httpd-dio-gmurilo
+    ports:
+    - '8888:80'
+    volumes:
+    - ./website:/usr/local/apache2/htdocs
