@@ -16,3 +16,6 @@
 [submodule "formacao-php-experience/laravel-construindo-uma-api-do-zero/exemplo"]
 	path = formacao-php-experience/laravel-construindo-uma-api-do-zero/exemplo
 	url = git@github.com:danbonattis/dio-laravel-api.git
+[submodule "formacao-docker-fundamentals/criando-um-container-de-uma-aplicacao-web/exemplo"]
+	path = formacao-docker-fundamentals/criando-um-container-de-uma-aplicacao-web/exemplo
+	url = git@github.com:denilsonbonatti/docker-projeto1-dio.git
