@@ -13,3 +13,6 @@
 [submodule "formacao-javascript-developer/publicando-seu-portfolio-profissional-no-github-pages/exemplo"]
 	path = formacao-javascript-developer/publicando-seu-portfolio-profissional-no-github-pages/exemplo
 	url = git@github.com:digitalinnovationone/js-developer-portfolio.git
+[submodule "formacao-php-experience/laravel-construindo-uma-api-do-zero/exemplo"]
+	path = formacao-php-experience/laravel-construindo-uma-api-do-zero/exemplo
+	url = git@github.com:danbonattis/dio-laravel-api.git
