@@ -8,7 +8,7 @@
 
 ## [Formação Docker Fundamentals]()
 
-## [Formação HTML Web Developer] (https://github.com/gmurilo/dio/tree/main/formacao-html-web-developer)
+## [Formação HTML Web Developer](https://github.com/gmurilo/dio/tree/main/formacao-html-web-developer)
 
 [DIO - Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer)
 
@@ -20,8 +20,12 @@
 
 [DIO - Formação Linux Fundamentals](https://web.dio.me/track/formacao-linux-fundamentals)
 
-## [Formação PHP Experience]()
+## [Formação PHP Experience](https://github.com/gmurilo/dio/tree/main/formacao-php-experience)
 
-## [Formação SQL Database Specialist](https://web.dio.me/track/1a5a10ed-417c-4fef-8531-2097ff072817)
+[DIO - Formação Linux Fundamentals](https://web.dio.me/track/formacao-php-experience)
 
-## [Formação Scrum Master Certification](https://web.dio.me/track/17a862ce-8109-4818-a52a-7b981e1750e2)
+## [Formação SQL Database Specialist](https://github.com/gmurilo/dio/tree/main/formacao-sql-db-specialist)
+
+[DIO - Formação SQL Database Specialist](https://web.dio.me/track/formacao-sql-db-specialist)
+
+## [Formação Scrum Master Certification]()
