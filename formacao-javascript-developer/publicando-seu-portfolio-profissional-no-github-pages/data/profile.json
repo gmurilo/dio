@@ -1,0 +1,111 @@
+{
+  "name": "Giovani Murilo D. Corrêa",
+  "photo": "https://avatars.githubusercontent.com/u/3208617?s=400&u=9ebbd42f31619d22a91445ff210cf46a8873784c&v=4",
+  "job": "Câmara Municipal de São Luís",
+  "location": "São Luís / MA",
+  "phone": "+55 98 98737-1710",
+  "email": "gmurilo@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "C#",
+        "logo": "./data/imgs/csharp.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "./data/imgs/css.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "./data/imgs/html.png"
+      },
+      {
+        "name": "Java",
+        "logo": "./data/imgs/java.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "./data/imgs/js.png"
+      },
+      {
+        "name": "PHP",
+        "logo": "./data/imgs/php.png"
+      },
+      {
+        "name": "Python",
+        "logo": "./data/imgs/python.png"
+      },
+      {
+        "name": "Firebird",
+        "logo": "./data/imgs/firebird.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "./data/imgs/mysql.png"
+      },
+      {
+        "name": "Oracle Database",
+        "logo": "./data/imgs/oracle.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "logo": "./data/imgs/postgresql.png"
+      },
+      {
+        "name": "SQL Server",
+        "logo": "./data/imgs/mssql.png"
+      },
+      {
+        "name": "Cloud Specialist (AWS, Azure, GCP e IBM)",
+        "logo": "./data/imgs/cloud.png"
+      },
+      {
+        "name": "Docker",
+        "logo": "./data/imgs/docker.png"
+      },
+      {
+        "name": "ETL Specialist",
+        "logo": "./data/imgs/etl.png"
+      }
+    ],
+    "softSkills": [
+      "Inovação",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (avançado)"
+  ],
+  "portfolio": [
+    {
+      "name": "Nome do Projeto",
+      "url": "https://urldoprojeto",
+      "github": false
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Diretor de Informática / Câmara Municipal de São Luís",
+      "period": "2019 - até o momento",
+      "description": "Tive o prazer de participar do processo de implantação da certificação ISO 9001."
+    },
+    {
+      "name": "Especialista em Tecnologias / FLORENCE",
+      "period": "2007 - até o momento",
+      "description": "Dentro dessa grande instituição consegui implementar os mais diversos processos, já atuando em praticamente todos os segmentos."
+    },
+    {
+      "name": "Superintentende de Desenvolvimento e Integração / Secretaria de Tecnologia do Maranhão - SEATI",
+      "period": "2012 - 2016",
+      "description": "Aqui fiz diversos amigos e tive a oportunidade de conhecer muitas tecnologias. Um dos projetos que mais me orgulhei de participar foi o VIVA INTERNET (internet gratuita), que me oportunizou conhecer a realidade da população menos abastada."
+    },
+    {
+      "name": "Programador WEB / Faculdade Atenas Maranhense - FAMA",
+      "period": "2006 - 2011",
+      "description": "Aqui tive excelente oportunidades, fiz amigos, perdi amigos. Creio que o projeto mais significativo que participei, foi a implantação e migração do sistema acadêmico (SAGU). Aqui começou minha paixão por SGDBS (Postres, SQL Server, MySQL, etc.), posso dizer que foi minha escola em todos os sentidos."
+    }
+  ]
+}
