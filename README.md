@@ -24,7 +24,11 @@
 
 ## [Formação PHP Experience](https://github.com/gmurilo/dio/tree/main/formacao-php-experience)
 
-[DIO - Formação Linux Fundamentals](https://web.dio.me/track/formacao-php-experience)
+[DIO - Formação PHP Experience](https://web.dio.me/track/formacao-php-experience)
+
+## [Formação Formação Python Developer](https://github.com/gmurilo/dio/tree/main/formacao-python-developer)
+
+[DIO - Formação Python Developer](https://web.dio.me/track/formacao-python-developer)
 
 ## [Formação SQL Database Specialist](https://github.com/gmurilo/dio/tree/main/formacao-sql-db-specialist)
 
