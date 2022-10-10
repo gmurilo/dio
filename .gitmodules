@@ -19,3 +19,6 @@
 [submodule "formacao-docker-fundamentals/criando-um-container-de-uma-aplicacao-web/exemplo"]
 	path = formacao-docker-fundamentals/criando-um-container-de-uma-aplicacao-web/exemplo
 	url = git@github.com:denilsonbonatti/docker-projeto1-dio.git
+[submodule "formacao-docker-fundamentals/definicao-de-um-cluster-swarm-local-com-o-vagrant/exemplo"]
+	path = formacao-docker-fundamentals/definicao-de-um-cluster-swarm-local-com-o-vagrant/exemplo
+	url = git@github.com:denilsonbonatti/docker-projeto2-cluster.git
