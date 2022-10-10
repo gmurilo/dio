@@ -36,3 +36,11 @@ a { color:blue; text-decoration: none;}
 figure {
     text-align: center;
 }
+
+.main p > img {
+  max-width: 100%;
+  margin: auto;
+  height: auto;
+  width: auto;
+  padding: .5rem;
+}

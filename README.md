@@ -6,11 +6,11 @@
 
 ## [Cloud DevOps Experience - Banco Carrefour](https://web.dio.me/track/cloud-devops-experience-banco-carrefour) 
 
-## [Formação Docker Fundamentals](https://github.com/gmurilo/dio/tree/main/formacao-docker-fundamentals)
+## [Formação Docker Fundamentals](https://github.com/gmurilo/dio/tree/main/formacao-docker-fundamentals) :heavy_check_mark:
 
 [DIO - Formação Docker Fundamentals](https://web.dio.me/track/formacao-docker-fundamentals)
 
-## [Formação HTML Web Developer](https://github.com/gmurilo/dio/tree/main/formacao-html-web-developer)
+## [Formação HTML Web Developer](https://github.com/gmurilo/dio/tree/main/formacao-html-web-developer) :heavy_check_mark:
 
 [DIO - Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer)
 
