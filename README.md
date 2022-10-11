@@ -14,15 +14,15 @@
 
 [DIO - Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer)
 
-## [Formação JavaScript Developer](https://github.com/gmurilo/dio/tree/main/formacao-javascript-developer)
+## [Formação JavaScript Developer](https://github.com/gmurilo/dio/tree/main/formacao-javascript-developer) :heavy_check_mark:
 
 [DIO - Formação JavaScript Developer](https://web.dio.me/track/formacao-javascript-developer)
 
-## [Formação Linux Fundamentals](https://github.com/gmurilo/dio/tree/main/formacao-linux-fundamentals)
+## [Formação Linux Fundamentals](https://github.com/gmurilo/dio/tree/main/formacao-linux-fundamentals) :heavy_check_mark:
 
 [DIO - Formação Linux Fundamentals](https://web.dio.me/track/formacao-linux-fundamentals)
 
-## [Formação PHP Experience](https://github.com/gmurilo/dio/tree/main/formacao-php-experience)
+## [Formação PHP Experience](https://github.com/gmurilo/dio/tree/main/formacao-php-experience) :heavy_check_mark:
 
 [DIO - Formação PHP Experience](https://web.dio.me/track/formacao-php-experience)
 
