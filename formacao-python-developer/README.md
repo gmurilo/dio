@@ -4,7 +4,7 @@
 
 - ##### [Otimizando o Sistema Bancário com Funções Python](https://web.dio.me/project/otimizando-o-sistema-bancario-com-funcoes-python/learning/82a55799-cfb8-479d-85a3-4982e29c90ba) :heavy_check_mark:
 
-- ##### [Modelando o Sistema Bancário em POO com Python](https://web.dio.me/project/modelando-o-sistema-bancario-em-poo-com-python/learning/92139fbc-dd1f-44c2-a9dc-61859f246f60)
+- ##### [Modelando o Sistema Bancário em POO com Python](https://web.dio.me/project/modelando-o-sistema-bancario-em-poo-com-python/learning/92139fbc-dd1f-44c2-a9dc-61859f246f60) :heavy_check_mark
 
 - ##### [Integrando Python com SQLite e MongoDB](https://web.dio.me/project/integrando-python-com-sqlite-e-mongodb/learning/eab2d584-6c76-4597-a550-e2ca95ef4d56)
 
