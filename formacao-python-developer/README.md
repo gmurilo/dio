@@ -2,7 +2,7 @@
 
 - ##### [Criando um Sistema Bancário com Python](https://web.dio.me/project/desafio-de-projeto-criando-um-sistema-bancario/learning/fa812356-0da6-4a85-9ffb-8b255748a288) :heavy_check_mark:
 
-- ##### [Otimizando o Sistema Bancário com Funções Python](https://web.dio.me/project/otimizando-o-sistema-bancario-com-funcoes-python/learning/82a55799-cfb8-479d-85a3-4982e29c90ba)
+- ##### [Otimizando o Sistema Bancário com Funções Python](https://web.dio.me/project/otimizando-o-sistema-bancario-com-funcoes-python/learning/82a55799-cfb8-479d-85a3-4982e29c90ba) :heavy_check_mark:
 
 - ##### [Modelando o Sistema Bancário em POO com Python](https://web.dio.me/project/modelando-o-sistema-bancario-em-poo-com-python/learning/92139fbc-dd1f-44c2-a9dc-61859f246f60)
 
