@@ -6,7 +6,7 @@
 
 ## [Cloud DevOps Experience - Banco Carrefour](https://web.dio.me/track/cloud-devops-experience-banco-carrefour) 
 
-## [Formação CSS Web Developer](https://github.com/gmurilo/dio/tree/main/formacao-css-web-developer)
+## [Formação CSS Web Developer](https://github.com/gmurilo/dio/tree/main/formacao-css-web-developer) :heavy_check_mark:
 
 [DIO - Formação CSS Web Developer](https://app.dio.me/api/tracks/formacao-css-web-developer)
 

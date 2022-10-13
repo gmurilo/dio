@@ -1,0 +1,62 @@
+main {
+  padding: 3rem 10rem ;
+}
+main img {
+  max-width: 100%;
+  height: auto;
+}
+main > [class^='section'] {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 3rem;
+}
+main h2 {
+  margin-top: 1.5rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+main > .img-right {
+  flex-direction: row-reverse;
+}
+
+main > .img-center {
+  flex-direction: column-reverse;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+main > .img-center h2 {
+  font-family: 'Luckiest Guy', sans-serif;
+}
+main > .img-center div {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.img-center div p {
+  margin-top: 1.5rem;
+}
+
+@media only screen and (max-width: 600px) {
+  main {
+    padding: 3rem;
+  }
+  main {
+    font-size: .95rem;
+  }
+  main h2 {
+    font-size: 1.3rem;
+    padding: 1rem 0;
+  }
+  main div {
+    width: 100%;
+  }
+  main > [class^='section'][class*='img-'] {
+    flex-direction: column;
+  }
+  main > .img-center div {
+    width: 100%;
+    text-align: left;
+  }
+}

@@ -6,5 +6,5 @@
 
 - ##### [Reproduzindo a Listagem do YouTube com Grid Layout no CSS](https://web.dio.me/lab/reproduzindo-a-listagem-do-youtube-com-grid-layout-no-css-grid-figma/learning/70a8e08d-a407-43f6-a41e-22d21e17f345) :heavy_check_mark:
 
-- ##### [Construindo um Layout Responsivo Para o Site do Discord Com CSS](https://web.dio.me/lab/construindo-um-layout-responsivo-para-o-site-do-discord-com-css-responsividade-figma/learning/7d160ecd-2b79-4bf1-b356-b6c4a0119355)
+- ##### [Construindo um Layout Responsivo Para o Site do Discord Com CSS](https://web.dio.me/lab/construindo-um-layout-responsivo-para-o-site-do-discord-com-css-responsividade-figma/learning/7d160ecd-2b79-4bf1-b356-b6c4a0119355) :heavy_check_mark:
  
