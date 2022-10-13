@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script src="./assets/js/video-thumb.js"></script>
+  <title>Youtube - Assistindo Vídeo</title>
+</head>
+
+<body>
+  <header>
+    <nav id="nav-bar">
+      <div class="left-menu">
+        <div class="menu-hamburguer">
+          <img src="assets/images/menu.png" alt="">
+        </div>
+        <div class="logo">
+          <img src="assets/images/youtube.png" title="Logotipo do Youtube" alt="Logotipo da marca Youtube">
+        </div>
+      </div>
+
+      <div class="search-bar">
+        <div class="search-button">
+          <img src="./assets/images/search.png" alt="Botão em formato de lupa, clique para pesquisar">
+        </div>
+      </div>
+
+      <div class="user-infos">
+        <img src="./assets/images/video.png" alt="Botão de video">
+        <img src="./assets/images/bell.png" alt="Notificações">
+        <img src="./assets/images/profile.jpg" alt="Informações de usúario">
+      </div>
+    </nav>
+  </header>
+  
+  <main>
+    <section id="video-content">
+      <div class="watching-video">
+        <iframe width="952" height="537" src="https://www.youtube.com/embed/FZgIQUDn8zo" title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        <h1>Semana Front-end | Dia 01: Construindo uma Landing Page no Mundo Invertido com HTML e CSS</h1>
+
+        <div class="video-actions">
+          <div class="chanel-infos">
+            <img src="./assets/images/Channel Avatar.png" alt="Logotipo do canal">
+            <p><span>DIO</span> 83,3 mil inscritos</p>
+          </div>
+          <button>Inscreva-se</button>
+          <div class="action-button"><img src="./assets/images/thumbs-up.png" alt="Like"> 2 mil</div>
+          <div class="action-button deslike"><img src="./assets/images/thumbs-down.png" alt="Deslike"> Não gostei</div>
+          <div class="action-button share"><img src="./assets/images/share-2.png" alt="Compartilhar"> Compartilhar</div>
+          <div class="action-button download"><img src="./assets/images/download.png" alt="Download"> Download</div>
+        </div>
+        <h3>28.418 visualizações Transmitido ao vivo em 23 ago. de 2022</h3>
+        <p class="video-description">Inicie uma aventura imersiva no mundo do Front-end com HTML e CSS. Para isso,
+          criaremos uma landing page
+          com
+          a temática da série Stranger Things, a qual contará com a implementação de um theme switcher (light e dark)
+          para explorarmos os mistérios do mundo invertido.</p>
+      </div>
+    </section>
+
+    <aside id="thumb-video-block">
+    </aside>
+  </main>
+
+</body>
+
+</html>
