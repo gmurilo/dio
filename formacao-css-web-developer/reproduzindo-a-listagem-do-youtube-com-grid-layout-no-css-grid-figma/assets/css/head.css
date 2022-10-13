@@ -1,0 +1,51 @@
+
+/* Nav-bar Styles */
+
+#nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #FFFFFF;
+  padding: 10px 24px;
+}
+
+#nav-bar .left-menu {
+  display: flex;
+  justify-content: space-between;
+  width: 146px;
+  height: 24px;
+}
+
+#nav-bar .search-bar {
+  display: flex;
+  justify-content: flex-end;
+  width: 404px;
+  height: 40px;
+  border: 1px solid #CCCCCC;
+}
+
+#nav-bar .search-bar .search-button {
+  background-color: #F8F8F8;
+  padding: 8px 19px 8px 14px;
+}
+
+#nav-bar .search-bar .search-button img,
+#nav-bar .user-infos img,
+#video-content .video-actions .chanel-infos img {
+  width: 24px;
+  height: 24px;
+}
+
+#nav-bar .user-infos {
+  width: 150px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#nav-bar .user-infos img:nth-child(3) {
+  width: 34px;
+  height: 34px;
+  border-radius: 20px;
+}
