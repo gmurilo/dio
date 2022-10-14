@@ -18,5 +18,6 @@ Template no Miro: https://miro.com/app/board/uXjVPahls68=/?share_link_id=9561898
 
 Download – Scrum Guide: https://scrumguides.org/index.html 
 
- 
 **Bons estudos!**
+
+![](./Board.jpg)
