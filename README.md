@@ -26,6 +26,10 @@
 
 [DIO - Formação Linux Fundamentals](https://web.dio.me/track/formacao-linux-fundamentals)
 
+## [Formação Linux Experience](https://github.com/gmurilo/dio/tree/main/formacao-linux-experience) :heavy_check_mark:
+
+[DIO - Linux Experience](https://web.dio.me/track/linux-experience)
+
 ## [Formação PHP Experience](https://github.com/gmurilo/dio/tree/main/formacao-php-experience) :heavy_check_mark:
 
 [DIO - Formação PHP Experience](https://web.dio.me/track/formacao-php-experience)
