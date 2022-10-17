@@ -38,10 +38,14 @@
 
 [DIO - Formação Python Developer](https://web.dio.me/track/formacao-python-developer)
 
+## [Formação Scrum Master Certification](https://github.com/gmurilo/dio/tree/main/formacao-scrum-master) :heavy_check_mark:
+
+[DIO - Formação Scrum Master Certification](https://web.dio.me/track/formacao-scrum-master)
+
 ## [Formação SQL Database Specialist](https://github.com/gmurilo/dio/tree/main/formacao-sql-db-specialist)
 
 [DIO - Formação SQL Database Specialist](https://web.dio.me/track/formacao-sql-db-specialist)
 
-## [Formação Scrum Master Certification](https://github.com/gmurilo/dio/tree/main/formacao-scrum-master) :heavy_check_mark:
+## [Formação TypeScript Fullstack Developer](https://github.com/gmurilo/dio/tree/main/formacao-typescript-fullstack-developer)
 
-[DIO - Formação Scrum Master Certification](https://web.dio.me/track/formacao-scrum-master)
+[DIO - Formação TypeScript Fullstack Developer](https://web.dio.me/track/formacao-typescript-fullstack-developer)
