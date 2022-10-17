@@ -6,6 +6,10 @@
 
 ## [Cloud DevOps Experience - Banco Carrefour](https://web.dio.me/track/cloud-devops-experience-banco-carrefour) 
 
+## [Cloud Fullstack Bootcamp - Warburg Pincus](https://github.com/gmurilo/dio/tree/main/formacao-css-web-developer)
+
+[DIO - Cloud Fullstack Bootcamp - Warburg Pincus](https://web.dio.me/track/64d0fafa-be32-4f17-a0e9-4accc36cf83f)
+
 ## [Formação CSS Web Developer](https://github.com/gmurilo/dio/tree/main/formacao-css-web-developer) :heavy_check_mark:
 
 [DIO - Formação CSS Web Developer](https://app.dio.me/api/tracks/formacao-css-web-developer)
