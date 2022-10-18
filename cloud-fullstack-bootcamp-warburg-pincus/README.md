@@ -4,9 +4,9 @@ Chegaram 7 novas empresas na DIO juntamente com uma trilha super completa em Ful
 
 - ##### [Construindo uma Pokédex com JavaScript](https://web.dio.me/project/construindo-uma-pokedex-com-javascript/learning/d3684309-5d5c-45d5-9715-c29127d65612) :heavy_check_mark:
 
-- ##### [Criando um Blog com Angular](https://web.dio.me/project/criando-um-blog/learning/19013487-b8a3-4073-8b38-796e03d80453)
+- ##### [Criando um Blog com Angular](https://web.dio.me/project/criando-um-blog/learning/19013487-b8a3-4073-8b38-796e03d80453) :heavy_check_mark:
 
-- ##### [Criando um Clone do BuzzFeed com Angular](https://web.dio.me/project/criando-um-clone-do-buzzfeed/learning/9b53d394-6442-4a79-b617-1e8c0b4738e8)
+- ##### [Criando um Clone do BuzzFeed com Angular](https://web.dio.me/project/criando-um-clone-do-buzzfeed/learning/9b53d394-6442-4a79-b617-1e8c0b4738e8) :heavy_check_mark:
 
 - ##### [Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://web.dio.me/project/abstraindo-um-bootcamp-usando-orientacao-objetos-em-java/learning/8afcd659-978c-477c-93db-846b83c2927e) 
 

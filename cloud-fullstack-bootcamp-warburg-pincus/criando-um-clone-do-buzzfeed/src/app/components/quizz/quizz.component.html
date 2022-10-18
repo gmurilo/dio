@@ -1,0 +1,36 @@
+<div *ngIf=!selected class="quizz__container">
+  <div class="quizz_logo">
+    <img src="assets/imgs/logo.png" alt="BuzzFeed Logo" srcset=""/>
+    <h3>{{title}}</h3>
+  </div>
+
+  <div *ngIf=!selected class="quizz_selected">
+    <button *ngFor="let quizz of quizzes; " class="btn-option"
+    (click)="selectQuizz(quizz.id)"
+    >
+    {{quizz.name}}
+    </button>
+  </div>
+</div>
+
+<div *ngIf=selected class="quizz__container">
+  <div class="quizz_logo">
+    <img src="assets/imgs/logo.png" alt="BuzzFeed Logo" srcset=""/>
+    <h3>{{title}}</h3>
+  </div>
+  <div *ngIf=!finished class="quizz_questions">
+    <h3>{{questionSelected.question}}</h3>
+  </div>
+  <div *ngIf=!finished class="quizz_options">
+    <button *ngFor="let option of questionSelected.options; " class="btn-option"
+      (click)="playerChoose(option.alias)"
+    >
+      {{option.name}}
+    </button>
+  </div>
+  <div *ngIf=finished class="quizz_results">
+    <h1>O seu resulto é:</h1>
+    <p>{{resposta}}</p>
+    <button (click)="resetQuizz()">Voltar</button>
+  </div>
+</div>
