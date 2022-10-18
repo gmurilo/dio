@@ -1,0 +1,111 @@
+.slideInDown {
+  -webkit-animation-name: slideInDown;
+  animation-name: slideInDown;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+@-webkit-keyframes slideInDown {
+  0% {
+  -webkit-transform: translateY(-100%);
+  transform: translateY(-100%);
+  visibility: visible;
+  }
+  100% {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  }
+}
+@keyframes slideInDown {
+  0% {
+  -webkit-transform: translateY(-100%);
+  transform: translateY(-100%);
+  visibility: visible;
+  }
+  100% {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  }
+}   
+/* Component */
+
+nav.main-navbar, nav.main-navbar * {
+  box-sizing: border-box;
+}
+nav.main-navbar {
+  width: 100%;
+  display: flex;
+  flex: 1 1 100%;
+  flex-direction: row;
+  margin: 0;
+  padding: 0 2.25rem;
+  border-bottom: solid 1px transparent;
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-family: "Lato", sans-serif;
+}
+nav.main-navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: .5rem;
+  display: flex;
+  flex-direction: row;
+  flex: 1 1 auto;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+nav.main-navbar ul ul {
+  padding: 0;
+}
+nav.main-navbar > ul li {
+  align-items: center;
+  display: flex;
+  white-space: nowrap;
+}
+nav.main-navbar > ul li a {
+  text-decoration: none;
+  color: inherit;
+  white-space: nowrap;
+  font-weight: 100;
+}
+nav.main-navbar > ul li a.active {
+  color: #cd6835;
+  font-weight: 700;
+}
+nav.main-navbar > ul li a:after {
+  display: inline-block;
+  border: solid #ccc;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  margin-left: 6px;
+  margin-bottom: 3px;
+  padding: 3px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  content: " ";
+}
+nav.main-navbar > ul li:last-child > a:after {
+  content: initial;
+}
+nav.main-navbar.slideInDown {
+  background-color: #fff;
+  border-bottom: solid 1px #ccc;
+}
+
+@media only screen and (max-width: 860px) {
+  body {
+    background-color: lightblue;
+  }
+  nav.main-navbar > ul > li:first-child {
+    max-width: 50px;
+    overflow: hidden;
+  }
+  nav.main-navbar > ul  li {
+    flex: 1 1 auto;
+  }
+}

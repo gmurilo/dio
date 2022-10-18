@@ -1,0 +1,14 @@
+<nav class="main-navbar slideInDown">
+  <ul>
+    <li class="nav-left"><img src="../../../assets/imgs/tinkering-monkey-logo.png" alt="Logo"/></li>
+    <li class="nav-center">&nbsp;</li>
+    <li class="nav-right">
+      <ul>
+        <li *ngFor="let lst of menuitems">
+          <a href="{{ lst.href }}" *ngIf="!lst.active"  >{{ lst.name }}</a>
+          <a href="{{ lst.href }}" *ngIf="lst.active" class="active">{{ lst.name }}</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
