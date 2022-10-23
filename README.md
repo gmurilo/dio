@@ -4,6 +4,9 @@
 
 ## [Bootcamp - NTT DATA Diversidade em Tech](https://web.dio.me/track/ntt-data-diversidade-em-tech)
 
+## [Bootcamp - Orange Tech](https://github.com/gmurilo/dio/tree/main/orange-tech)
+[DIO - Orange Tech](https://web.dio.me/track/orange-tech)
+
 ## [Cloud DevOps Experience - Banco Carrefour](https://web.dio.me/track/cloud-devops-experience-banco-carrefour) 
 
 ## [Cloud Fullstack Bootcamp - Warburg Pincus](https://github.com/gmurilo/dio/tree/main/formacao-css-web-developer)

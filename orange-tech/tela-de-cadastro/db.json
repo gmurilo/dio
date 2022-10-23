@@ -1,0 +1,7 @@
+{
+    "users": [
+      { "id": 1, "name": "Pablo", "email": "pablo@email.com", "senha":"123456", "pic": "https://avatars.githubusercontent.com/u/45184516?v=4" },
+      { "id": 2, "name": "José", "email": "jose@email.com", "senha":"123456", "pic": "https://avatars.githubusercontent.com/u/45184516?v=4" },
+      { "id": 3, "name": "Giovani", "email": "gmurilo@gmail.com", "senha":"123456", "pic": "https://avatars.githubusercontent.com/u/3208617?v=4" },
+    ]
+}
