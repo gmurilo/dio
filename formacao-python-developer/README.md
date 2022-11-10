@@ -8,7 +8,7 @@
 
 - ##### [Integrando Python com SQLite e MongoDB](https://web.dio.me/project/integrando-python-com-sqlite-e-mongodb/learning/eab2d584-6c76-4597-a550-e2ca95ef4d56) :heavy_check_mark:
 
-- ##### [Criando uma API com Flask no Ambiente COLAB](https://web.dio.me/project/criando-uma-api-com-flask-no-ambiente-colab/learning/92e095c6-76d6-4014-b272-4bb0f2948958)
+- ##### [Criando uma API com Flask no Ambiente COLAB](https://web.dio.me/project/criando-uma-api-com-flask-no-ambiente-colab/learning/92e095c6-76d6-4014-b272-4bb0f2948958) :heavy_check_mark:
 
 - ##### [Análise de dados com Python e Pandas](https://web.dio.me/project/analise-de-dados-com-python-e-pandas/learning/8cc8c67e-eb34-4254-af7a-c0ff8cf72834)
 
