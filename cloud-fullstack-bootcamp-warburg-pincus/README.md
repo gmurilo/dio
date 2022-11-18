@@ -8,8 +8,8 @@ Chegaram 7 novas empresas na DIO juntamente com uma trilha super completa em Ful
 
 - ##### [Criando um Clone do BuzzFeed com Angular](https://web.dio.me/project/criando-um-clone-do-buzzfeed/learning/9b53d394-6442-4a79-b617-1e8c0b4738e8) :heavy_check_mark:
 
-- ##### [Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://web.dio.me/project/abstraindo-um-bootcamp-usando-orientacao-objetos-em-java/learning/8afcd659-978c-477c-93db-846b83c2927e) 
+- ##### [Abstraindo um Bootcamp Usando Orientação a Objetos em Java](https://web.dio.me/project/abstraindo-um-bootcamp-usando-orientacao-objetos-em-java/learning/8afcd659-978c-477c-93db-846b83c2927e) :heavy_check_mark:
 
-- ##### [Conhecendo Spring Data JPA na prática com Java](https://web.dio.me/project/conhecendo-spring-data-jpa-na-pratica-com-java/learning/abd511f0-a5be-4f02-a204-03eb2614a12a)
+- ##### [Conhecendo Spring Data JPA na prática com Java](https://web.dio.me/project/conhecendo-spring-data-jpa-na-pratica-com-java/learning/abd511f0-a5be-4f02-a204-03eb2614a12a) :heavy_check_mark:
  
 - ##### [Infraestrutura Como Código com Serverless Framework na AWS](https://web.dio.me/project/infraestrutura-como-codigo-com-serverless-framework-na-aws/learning/bc741bc5-977c-49c9-bd5d-44b2381e847a)  :heavy_check_mark:
